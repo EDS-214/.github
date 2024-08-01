@@ -12,3 +12,4 @@ EDS 214 - Analytical Workflows and Scientific Reproducibility aims to expose inc
 
 - Practice documenting code and data in a systematic way that will enable your collaborators, including your future self, to understand and reuse your work
 
+For more information: https://bren.ucsb.edu/courses/eds-214
